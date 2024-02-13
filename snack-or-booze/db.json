@@ -27,6 +27,27 @@
       "description": "Crisp!",
       "recipe": "Open can.",
       "serve": "Immediately."
+    },
+    {
+      "id": "cranberry juice",
+      "name": "cranberry juice",
+      "description": "Strong and bold",
+      "recipe": "add cranberries, water and sugar",
+      "serve": "Serve cold or warm"
+    },
+    {
+      "id": "lemondade",
+      "name": "lemondade",
+      "description": "classic ",
+      "recipe": "lemons, sugar, water",
+      "serve": "cold"
+    },
+    {
+      "id": "bubble tea",
+      "name": "bubble tea",
+      "description": "an asian specialty",
+      "recipe": "boboa with tea",
+      "serve": "hot or cold"
     }
   ],
   "snacks": [
@@ -50,6 +71,13 @@
       "description": "Tart and delicious.",
       "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
       "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "id": "carrots",
+      "name": "carrots",
+      "description": "bugs bunny's favoirte",
+      "recipe": "carrots",
+      "serve": "with a bunny"
     }
   ]
 }
